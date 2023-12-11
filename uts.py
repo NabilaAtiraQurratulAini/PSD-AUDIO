@@ -42,7 +42,7 @@ with data_set_description:
 
     st.write("### Source Code Aplikasi Di GitHub")
     st.write("Code dari data audio yang diiunputkan ada di GitHub di bawah.")
-    st.write("https://github.com/NabilaAtiraQurratulAini/UTS-PSDA.git")
+    st.write("https://github.com/NabilaAtiraQurratulAini/PSD-AUDIO.git")
 
 with data_file_audio:
     st.write("### Data Sinyal Audio")
