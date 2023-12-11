@@ -103,8 +103,8 @@ with data_file_audio:
             best_k_after_pca = k
 
     # simpan scaler.pkl dan knn.pkl di lokasi yang diinginkan
-    scaler_filename = 'C:/Visual Studio Code/scaler.pkl'
-    knn_filename = 'C:/Visual Studio Code/knn.pkl'
+    scaler_filename = 'scaler.pkl'
+    knn_filename = 'knn.pkl'
 
     joblib.dump(scaler, scaler_filename)
     joblib.dump(knn_after_pca, knn_filename)  # simpan model KNN setelah PCA
