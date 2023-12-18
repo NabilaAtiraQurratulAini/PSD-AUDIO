@@ -1,5 +1,5 @@
 pandas==1.5.3
-streamlit
+streamlit==1.27.2
 scikit-learn==1.2.2
 pip==23.2.1
 numpy==1.22.3
